@@ -1,5 +1,5 @@
 # express-local
-Cree una nueva ruta en /routes/users.js que mostrará el texto "Eres genial" en la URL /users/cool/, cantera 2 sofkaU
+Cree una nueva ruta en /routes/users.js que mostrará el texto "Eres genial" en la URL /users/cool/, cantera 2 sofkaU, además
 se realizó el paso a paso del tutorial de la instalación de express con node.
 
 ![image](https://user-images.githubusercontent.com/76182994/219252782-ffd5859b-1074-4c23-87f4-1110966f6502.png)

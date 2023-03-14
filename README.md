@@ -8,5 +8,9 @@ se realizó el paso a paso del tutorial de la instalación de express con node.
 
 ![image](https://user-images.githubusercontent.com/76182994/219252995-20bae25d-0362-4f49-a909-a8d643d0b0f2.png)
 
+## Construido con :node js:
+-express
+-visual studio code
+
 
 ## Por Faber Fernández :building_construction:
